@@ -16,6 +16,8 @@ For students it is very *difficult* to come up with **mechanistic explanations**
 ## Why did I submit this homepage late?
 
 a) My son got sick
+
 b) I checked the instuction only today
+
 c) I work more efficiently under pressure
 
