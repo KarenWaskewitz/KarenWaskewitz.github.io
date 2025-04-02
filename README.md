@@ -1,5 +1,5 @@
 > # Welcome
->> This is my very first website on github
+> This is my very first website on github
 
 ---
 
@@ -11,7 +11,7 @@
 
 ## What I am working on right now...
 
-For students it is very difficult to come up with mechanistic explanations in science classes. So we are trying to come up with a concept that helps students understand those mechanisms e.g. in biology and enable them to explain them.
+For students it is very *difficult* to come up with **mechanistic explanations** in science classes. So we are trying to come up with a concept that helps students *understand those mechanisms* e.g. in biology and *enable them to explain* them.
 
 ## Why did I submit this homepage late?
 
