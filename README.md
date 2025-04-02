@@ -3,7 +3,7 @@
 
 ---
 
-## Let me tell me more about myself...
+## Let me tell you more about myself...
 
   1. I'm a sience teacher
   2. I do my PhD at the Science Teaching Department
