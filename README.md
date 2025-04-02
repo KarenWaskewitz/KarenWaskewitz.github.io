@@ -29,5 +29,4 @@ c) I work more efficiently under pressure
 
 ![1743589544996](https://github.com/user-attachments/assets/841df25e-77f2-48ba-9c91-b9697023c2f2)
 
-> So if you want to learn more about what we do at our department, check out the following homepage
-> [Departmant for Science Education](https://www.weizmann.ac.il/ScienceTeaching/)
+> So if you want to learn more about what we do at our department, check out the [Departmant for Science Education](https://www.weizmann.ac.il/ScienceTeaching/)
