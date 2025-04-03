@@ -19,9 +19,11 @@ For students it is very *difficult* to come up with **mechanistic explanations**
 
 a) My son got sick
 
-b) I checked the instruction only today
+b) I checked the instruction on the first of April and thought it's a joke
 
 c) I work more efficiently under pressure
+
+d) none of the above
 
 ---
 
