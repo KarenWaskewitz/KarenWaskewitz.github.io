@@ -9,9 +9,6 @@
 
 ---
 
->.markdown-block {
-> background: grey;
-> }
 >
 ## Let me tell you more about myself...
 
