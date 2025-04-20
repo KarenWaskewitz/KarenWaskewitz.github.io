@@ -1,4 +1,4 @@
-> :rainbow-background[Welcome]
+> code-editor-background-color: red
 >
 > 
 > This is my very first website on github
