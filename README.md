@@ -1,6 +1,5 @@
 > # Welcome
 > This is my very first website on github
-> :color-background[green]
 
 
 ---
