@@ -1,7 +1,7 @@
 > # Welcome
 > This is my very first website on github
 
-<span style="color:red;">This is my very first website on github > </span>
+
 ---
 
 ## Let me tell you more about myself...
