@@ -1,6 +1,4 @@
->.markdown-block {
-> background: grey;
-> }
+
 > # Welcome
 >
 > 
@@ -11,6 +9,10 @@
 
 ---
 
+>.markdown-block {
+> background: grey;
+> }
+>
 ## Let me tell you more about myself...
 
   1. I'm a sience teacher
