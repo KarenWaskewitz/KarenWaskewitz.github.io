@@ -1,4 +1,4 @@
-> 🌈-background[Welcome]
+> :rainbow-background[Welcome]
 >
 > 
 > This is my very first website on github
